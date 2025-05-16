@@ -1,5 +1,5 @@
 // Palindrome.java
-// @sean_price
+// @baigz_gibson
 
 import java.util.Scanner;
 
